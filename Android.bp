@@ -6833,6 +6833,7 @@ cc_prebuilt_library_shared {
 	compile_multilib: "64",
 	prefer: true,
 	system_ext_specific: true,
+	allow_undefined_symbols: true,
 }
 
 android_app_import {
