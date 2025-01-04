@@ -121,16 +121,6 @@ PRODUCT_PACKAGES += \
     libGPTEE_vendor \
     libGPreqcancel \
     libGPreqcancel_svc \
-    libOmxAacDec \
-    libOmxAlacDec \
-    libOmxAmrDec \
-    libOmxAmrwbplusDec \
-    libOmxApeDec \
-    libOmxEvrcDec \
-    libOmxG711Dec \
-    libOmxQcelp13Dec \
-    libOmxVpp \
-    libOmxWmaDec \
     libOpenCL \
     libQSEEComAPI \
     libSecureUILib \
@@ -331,7 +321,7 @@ PRODUCT_PACKAGES += \
     com.samsung.chi.override \
     sound_trigger.primary.sdm710 \
     libFileMux_proprietary \
-    libOmxDsdDec \
+    libOmxVpp \
     libOpenCv.camera.samsung \
     lib_SamsungRec_07010 \
     lib_SoundAlive_SRC384_ver320 \
@@ -347,7 +337,6 @@ PRODUCT_PACKAGES += \
     libchiss3alogdebug \
     libcom.qti.chinodeutils \
     libcpion \
-    libdsd2pcm \
     libdualcam_optical_zoom_control \
     libfastcrc \
     libhdcpsrm \
